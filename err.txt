@@ -1,0 +1,52 @@
+Now processing results/mondriaanfg.
+	Tina_AskCal has imbalance 58.6207
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 60.0
+	cage3 has imbalance 57.8947
+Now processing results/mondriaanmg.
+	Tina_AskCal has imbalance 58.6207
+	GL7d10 has imbalance 100.0
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 60.0
+	cage3 has imbalance 57.8947
+Now processing results/mondriaanfgir.
+	Tina_AskCal has imbalance 58.6207
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 60.0
+	cage3 has imbalance 36.8421
+Now processing results/patohfg.
+	Tina_AskCal has imbalance 24.1379
+	Tina_AskCog has imbalance 5.55556
+	rel3 has imbalance 11.1111
+	relat3 has imbalance 8.33333
+	lpi_itest2 has imbalance 7.69231
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 33.3333
+	mycielskian3 has imbalance 20.0
+	ch3-3-b1 has imbalance 5.55556
+	cage3 has imbalance 26.3158
+Now processing results/patohmg.
+	Tina_AskCal has imbalance 58.6207
+	n3c4-b4 has imbalance 6.66667
+	jgl009 has imbalance 4.0
+	mycielskian4 has imbalance 5.0
+	lpi_itest2 has imbalance 7.69231
+	n3c4-b1 has imbalance 6.66667
+	GL7d10 has imbalance 100.0
+	kleemin has imbalance 9.09091
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 60.0
+	cage3 has imbalance 36.8421
+Now processing results/patohfgir.
+	Tina_AskCal has imbalance 51.7241
+	lpi_itest2 has imbalance 7.69231
+	lpi_itest6 has imbalance 24.1379
+	Trec4 has imbalance 33.3333
+	b1_ss has imbalance 60.0
+	cage3 has imbalance 36.8421
+
